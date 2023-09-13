@@ -1,1 +1,8 @@
-# PVy1IT-2324
+# Studentské slzy s.r.o.
+
+E-shop prodávající autentické slzy decimovaných ubohých studentů 1IT.
+
+## Učitelé
+
+* Matěj Bína
+* Petr Kuba
